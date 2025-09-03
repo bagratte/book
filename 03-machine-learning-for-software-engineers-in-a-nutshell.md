@@ -28,7 +28,7 @@ A *machine-learning algorithm* (sometimes also called *modeling technique*), imp
 
 <figcaption>
 
-Conceptual steps of machine learning: given training data, the machine-learning algorithm learns a function, the model, then can then be used to compute the “predicted” outputs for new inputs. This function would be used as a component in some system.
+Conceptual steps of machine learning: given training data, the machine-learning algorithm learns a function, the model, which can then be used to compute the “predicted” outputs for new inputs. This function would be used as a component in some system.
 
 </figcaption>
 </figure>
